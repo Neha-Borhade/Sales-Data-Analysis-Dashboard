@@ -1,4 +1,4 @@
-# Sales Data Analysis Dashboard
+# Sales Data Analysis Dashboard Using Excel
 
 ## Project Overview
 This project focuses on analyzing sales data using Microsoft Excel and creating an interactive dashboard to understand sales performance and business insights.
