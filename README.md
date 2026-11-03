@@ -5,7 +5,8 @@ This project focuses on analyzing sales data using Microsoft Excel and creating 
 
 ## Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard.png)
+<img width="1762" height="832" alt="Sales-Dashboard" src="https://github.com/user-attachments/assets/c4acf2a4-f0b6-4f98-892a-b56ecebdc057" />
+
 
 ## Tools Used
 - Microsoft Excel
